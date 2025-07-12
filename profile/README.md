@@ -21,7 +21,7 @@ Welcome to **Satus** — Latin for *swift*. We’re an open source organization 
 
 | Project                  | Description                                              | Status        |
 |--------------------------|----------------------------------------------------------|---------------|
-| [Gemeni Key Rotator](#https://github.com/satusdev/gemeni-key-rotator)           | A proxy to the Google Gemini API | ⭐ Active      |
+| [Gemeni Key Rotator](https://github.com/satusdev/gemeni-key-rotator)           | A proxy to the Google Gemini API | ⭐ Active      |
 
 *More coming soon!*
 
