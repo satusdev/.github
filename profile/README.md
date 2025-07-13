@@ -19,9 +19,11 @@ Welcome to **Satus** — Latin for *swift*. We’re an open source organization 
 
 ## 📦 Featured Projects
 
-| Project                  | Description                                              | Status        |
-|--------------------------|----------------------------------------------------------|---------------|
-| [Gemeni Key Rotator](https://github.com/satusdev/gemeni-key-rotator)           | A proxy to the Google Gemini API | ⭐ Active      |
+| Project                  | Description                                                                            | Status        |
+|--------------------------|----------------------------------------------------------------------------------------|---------------|
+| [Gemeni Key Rotator](https://github.com/satusdev/gemeni-key-rotator)           | A proxy to the Google Gemini API | ⭐ Active     |
+| [Infra Kickstart](https://github.com/satusdev/infra-kickstart)           | Templates to automate the setup of a consistent workspace | ⭐ Active      |
+| [Scaffold](https://github.com/satusdev/scaffold)           | A robust and scalable skeleton template for Node.js projects | 🏗️ In-Progress      |
 
 *More coming soon!*
 
